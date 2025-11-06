@@ -12,6 +12,8 @@ This project automates the Login functionality of Atheer web application using S
 - Extent
 - GitHub version control
 ---
+
+Run the runner.java file from runner package to initiate execution
 ## Framework Features
 
 ✅ Page Object Model (POM)  
@@ -21,8 +23,8 @@ This project automates the Login functionality of Atheer web application using S
 ✅ Jenkins CI/CD friendly 
 ---
 ## Reports 
-/target/cucumber-reports/
-/target/ExtentReports/
+/Reports/CucumberHTML/report.html
+/Reports/SparkReport/spark.html
 
 Feel free to contribute!
 
